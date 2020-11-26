@@ -1,6 +1,7 @@
 # OS or Editor folders
 Thumbs.db
 .idea
+.vscode
 *.orig
 
 #Vagrant
